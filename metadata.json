@@ -1,0 +1,7 @@
+{
+  "name": "CareConnect: Caregiver Dashboard",
+  "description": "A dashboard for caregivers to monitor the health and well-being of elderly individuals. It provides real-time health metrics, medication tracking, and emergency alerts, with an AI-powered daily summary feature.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
